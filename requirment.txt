@@ -4,3 +4,4 @@ numpy
 pandas
 time
 datetime
+scikit-learn
